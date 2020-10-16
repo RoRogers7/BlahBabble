@@ -1,0 +1,21 @@
+baseURL = "https://blahbabble.netlify.app"
+languageCode = "en-us"
+title = "BlahBabble"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "BlahBabble"
+  description = "A 21 year old forever longing for the picturesque"
+  message = ""
+  hideAutoMenu = false
+
+[[menu.main]]
+  name = "Contact"
+  url = "mailto:sharmi9947@gmail.com"
+
+[social]
+ 
+  instagram = "https://www.instagram.com/blah.babble/"
